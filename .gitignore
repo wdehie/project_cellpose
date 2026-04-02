@@ -1,0 +1,6 @@
+env.yml
+pipeline.ipynb
+demo_images/
+*.tif
+*.png
+results_cellpose/
