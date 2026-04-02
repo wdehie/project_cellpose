@@ -1,0 +1,10 @@
+{
+  "img_path": "/Users/wendywang/Downloads/02604/project_cellpose/MP6843_img_full/F01_120w1.TIF",
+  "gt_path": "/Users/wendywang/Downloads/02604/project_cellpose/MP6843_seg/F01_120_GT_01.tif",
+  "diameter": 30,
+  "cellprob_threshold": 0.0,
+  "flow_threshold": 0.4,
+  "model_type": "cyto3",
+  "use_gpu": false,
+  "apply_postprocess": true
+}

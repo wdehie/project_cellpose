@@ -1,0 +1,6 @@
+{
+  "image_dice_binary": 0.935736814535231,
+  "image_iou_binary": 0.8792344105434694,
+  "n_pred_instances": 88,
+  "n_gt_instances": 9
+}

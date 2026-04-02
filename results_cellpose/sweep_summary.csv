@@ -1,0 +1,3 @@
+image_name,diameter,cellprob_threshold,flow_threshold,raw_image_dice_binary,raw_image_iou_binary,raw_n_pred_instances,raw_n_gt_instances,post_image_dice_binary,post_image_iou_binary,post_n_pred_instances,post_n_gt_instances,out_dir
+F01_120w1,30,-2.0,0.2,0.8847299113295967,0.7932875814721697,78,9,0.8847297458331599,0.7932873153638398,78,9,./results_cellpose/F01_120w1/d30_cp-2.0_ft0.2
+F01_120w1,30,0.0,0.2,0.9356804512690838,0.8791348917576302,88,9,0.935736814535231,0.8792344105434694,88,9,./results_cellpose/F01_120w1/d30_cp0.0_ft0.2
